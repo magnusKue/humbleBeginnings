@@ -1,0 +1,28 @@
+#Python Beispiel mit Turtle
+from turtle import *
+from time import sleep
+
+print('Das ist das Haus vom Nikolaus')
+penup()
+left(180)
+forward(270)
+right(90)
+pendown()
+forward(300)
+right(45)
+forward(300)
+right(90)
+forward(300)
+right(45)
+forward(300)
+left(235)
+forward(517)
+right(145)
+forward(421)
+right(145)
+forward(517)
+left(145)
+forward(420)
+penup()
+forward(700)
+sleep(20)

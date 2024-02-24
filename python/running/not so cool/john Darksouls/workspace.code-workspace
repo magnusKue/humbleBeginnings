@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\PYGAMEPOTATO\\MapGenerator"
+		},
+		{
+			"path": "..\\PYGAMEPOTATO\\MapLoader"
+		},
+		{
+			"path": "..\\PYGAMEPOTATO\\platformer_project_2"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,35 @@
+from turtle import *;
+x = 40
+penup();
+right(90);
+forward(40);
+pendown();
+left(90);
+forward(40);
+for x in range(4):
+    left(90);
+    forward(80);
+left(45);
+forward(40);
+left(45);
+forward(80);
+left(90);
+forward(80);
+left(90);
+forward(80);
+left(90);
+forward(80);
+left(90);
+forward(80);
+left(135);
+forward(40);
+right(45);
+forward(80);
+right(135);
+forward(40);
+right(135);
+forward(80);
+right(45);
+forward(40);
+penup();
+forward(10000);
